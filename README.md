@@ -1,3 +1,3 @@
 # semgme.github.io
 
-it is pravate
+it is private
